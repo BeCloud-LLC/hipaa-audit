@@ -1,6 +1,5 @@
 # Written by James Phipps
 # Edited by Serene Aryal on 05/29/2024
-
 import time
 from datetime import datetime
 import matplotlib.pyplot as plt

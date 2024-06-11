@@ -1,6 +1,8 @@
 # Written by James Phipps
 # Edited by Serene Aryal on 05/29/2024
 
+#modified scrip for api
+
 import time
 from datetime import datetime
 import matplotlib.pyplot as plt
